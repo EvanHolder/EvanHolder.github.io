@@ -1,11 +1,11 @@
 # Site settings
 author: Evan Holder
-title: 
+title: Evan Holder blog
 header-img: img/home-bg.png
 email: holderevane@gmail.com
 copyright_name: Evan Holder
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  EvanHolder
